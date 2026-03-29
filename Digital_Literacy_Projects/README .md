@@ -1,8 +1,8 @@
 # Digital Literacy Project – Student Digital Ambassador
 
 ## 👤 Student Details
-- Name: Kunjan Khore
-- Registration Number: 25BAI10594  
+- Name: Akshara Shah
+- Registration Number: 25BAI11587
 - Branch: B.Tech CSE (AI and ML)
 - Year: 1st Year  
 
